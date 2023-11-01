@@ -19,3 +19,7 @@ Q5-Fork the specific project
 
     3-  https://jacksparrooow.github.io/Nav-page-tailwind/
 
+    4-  https://jacksparrooow.github.io/Resume-Project/
+
+    5-  https://jacksparrooow.github.io/Clone-Project-2/
+
